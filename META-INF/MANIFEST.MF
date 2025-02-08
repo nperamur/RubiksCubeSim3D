@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: org.neelesh.demo.Cube3D3
+Class-Path: org.neelesh.demo.Cube3D3
+
