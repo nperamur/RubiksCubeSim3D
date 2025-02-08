@@ -68,7 +68,6 @@ public class Cube3D3 extends Application {
     };
     @Override
     public void start(Stage stage) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(Cube3D2.class.getResource("hello-view.fxml"));
         cube.rotate("X", "CW");
         cube.rotate("X", "CW");
         int size = 500;
